@@ -1,0 +1,16 @@
+D:\1.PROGRAMAÇÃO\c#\Helloworld\Helloworld\bin\Debug\net5.0\Helloworld.exe
+D:\1.PROGRAMAÇÃO\c#\Helloworld\Helloworld\bin\Debug\net5.0\Helloworld.deps.json
+D:\1.PROGRAMAÇÃO\c#\Helloworld\Helloworld\bin\Debug\net5.0\Helloworld.runtimeconfig.json
+D:\1.PROGRAMAÇÃO\c#\Helloworld\Helloworld\bin\Debug\net5.0\Helloworld.runtimeconfig.dev.json
+D:\1.PROGRAMAÇÃO\c#\Helloworld\Helloworld\bin\Debug\net5.0\Helloworld.dll
+D:\1.PROGRAMAÇÃO\c#\Helloworld\Helloworld\bin\Debug\net5.0\Helloworld.pdb
+D:\1.PROGRAMAÇÃO\c#\Helloworld\Helloworld\obj\Debug\net5.0\Helloworld.csproj.AssemblyReference.cache
+D:\1.PROGRAMAÇÃO\c#\Helloworld\Helloworld\obj\Debug\net5.0\Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.PROGRAMAÇÃO\c#\Helloworld\Helloworld\obj\Debug\net5.0\Helloworld.AssemblyInfoInputs.cache
+D:\1.PROGRAMAÇÃO\c#\Helloworld\Helloworld\obj\Debug\net5.0\Helloworld.AssemblyInfo.cs
+D:\1.PROGRAMAÇÃO\c#\Helloworld\Helloworld\obj\Debug\net5.0\Helloworld.csproj.CoreCompileInputs.cache
+D:\1.PROGRAMAÇÃO\c#\Helloworld\Helloworld\obj\Debug\net5.0\Helloworld.dll
+D:\1.PROGRAMAÇÃO\c#\Helloworld\Helloworld\obj\Debug\net5.0\refint\Helloworld.dll
+D:\1.PROGRAMAÇÃO\c#\Helloworld\Helloworld\obj\Debug\net5.0\Helloworld.pdb
+D:\1.PROGRAMAÇÃO\c#\Helloworld\Helloworld\obj\Debug\net5.0\Helloworld.genruntimeconfig.cache
+D:\1.PROGRAMAÇÃO\c#\Helloworld\Helloworld\obj\Debug\net5.0\ref\Helloworld.dll
